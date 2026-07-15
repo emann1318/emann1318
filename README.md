@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Eman+Faris+Farooq+👋;BS+Financial+Technology+Student+📊;AI+%26+Machine+Learning+Developer+🤖;FinTech+%7C+Healthcare+AI+%7C+Software+Engineer;Always+Learning+Something+New+✨" alt="Typing SVG" />
+
 
 </div>
 
