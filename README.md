@@ -1,53 +1,21 @@
-👋 Hi, I'm Eman Faris Farooq
+# 🎀 Welcome to My Digital Space 💖
 
-BS Financial Technology Student @ FAST-NUCES Islamabad
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Eman+Faris+Farooq+👋;FinTech+Student+📊;AI+%26+ML+Developer+🤖;Building+the+Future+⚙️" alt="Typing SVG" />
+</div>
 
-💹 Interested in
-• Artificial Intelligence
-• Financial Technology
-• Machine Learning
-• Quantitative Finance
-• Portfolio Analytics
-• Web Development
+<p align="center">
+  <strong>BS Financial Technology Student @ FAST-NUCES Islamabad</strong>
+</p>
 
-🛠 Tech Stack
-Python
-Java
-C++
-JavaScript
-HTML
-CSS
-SQL
-Flutter
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-ff69b4?style=flat-square" alt="Maintained" />
+  <img src="https://img.shields.io/badge/Built%20With-Heart%20%26%20Code-ff1493?style=flat-square" alt="Built With Love" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🔮 About Me
 
-📊 Currently Working On
-• AI Weather Assistant
-• Clima Weather App
-• Financial Modeling & Forecasting
-• Anatomy AI Assistant
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FF00&lines=Hi+I'm+Eman;FinTech+Student;AI+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
-
-📚 Learning
-• Agentic AI
-• TensorFlow
-• PyPortfolioOpt
-• OpenCV
-• Reinforcement Learning
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-
-🏆 Featured Projects
-• AI Weather Assistant
-• Clima
-• Human Anatomy AI
-• Financial Analysis Models
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-🎯 Goal
-Building AI-powered financial and healthcare solutions that solve real-world problems.
+```text
+🧬 Goal: Building AI-powered financial and healthcare solutions that solve real-world problems.
