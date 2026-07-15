@@ -2,7 +2,7 @@
 
 <div align="center">
 
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Eman+Faris+Farooq+👋;BS+Financial+Technology+Student+📊;AI+%26+Machine+Learning+Developer+🤖;FinTech+%7C+Healthcare+AI+%7C+Software+Engineer;Always+Learning+Something+New+✨" alt="Typing SVG" />
 
 </div>
 
@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained-Yes-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Built%20With-❤%20%26%20Code-ff1493?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=ff69b4" />
 </p>
 
 ---
@@ -114,7 +113,7 @@ Also experienced with:
 - Jupyter Notebook
 - AutoCAD
 - Blender
-- Excel
+- Microsoft Excel
 - Power BI
 - SPSS
 - Stata
@@ -126,9 +125,9 @@ Also experienced with:
 
 ## 🌦️ AI Weather Assistant
 
-An AI-powered weather assistant that provides personalized recommendations using weather forecasts and natural language conversations.
+An AI-powered weather assistant that provides personalized weather recommendations using conversational AI, live forecasts, and intelligent suggestions.
 
-**Tech Used**
+**Tech Stack**
 
 - Flutter
 - Gemini API
@@ -139,31 +138,19 @@ An AI-powered weather assistant that provides personalized recommendations using
 
 ## 🩺 Human Anatomy AI
 
-An interactive 3D anatomy application where users explore the human body and learn about diseases, symptoms, treatments, and preventive measures using AI.
+An interactive AI-powered anatomy platform where users can explore the human body, understand diseases, symptoms, treatments, and preventive care through an intuitive interface.
 
 ---
 
 ## 📊 Financial Analysis & Forecasting
 
-Financial forecasting, valuation, ratio analysis, cash flow modeling, portfolio optimization, and credit risk assessment.
+Financial modeling, forecasting, valuation, ratio analysis, portfolio optimization, credit risk analysis, and business analytics using modern financial techniques.
 
 ---
 
 ## 📱 Clima
 
-A beautiful Flutter weather application with modern UI, location services, and live weather data.
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+A beautiful Flutter weather application featuring live weather updates, location services, and an elegant user interface.
 
 ---
 
@@ -199,24 +186,24 @@ A beautiful Flutter weather application with modern UI, location services, and l
 
 # 📚 Education
 
-🎓 **BS Financial Technology**
+🎓 **Bachelor of Science in Financial Technology (BS FinTech)**
 
-FAST – National University of Computer & Emerging Sciences
+FAST – National University of Computer & Emerging Sciences (FAST-NUCES)
 
-Islamabad, Pakistan
+Islamabad, Pakistan 🇵🇰
 
 ---
 
 # 🎯 Interests
 
 - 🤖 Artificial Intelligence
-- 📊 Financial Technology
-- 💹 Quantitative Finance
+- 🧠 Machine Learning
+- 💹 Financial Technology
+- 📊 Quantitative Finance
+- 📈 Data Analytics
 - 🩺 Healthcare AI
 - 📱 Mobile App Development
 - 🌐 Web Development
-- 📈 Data Analytics
-- 🧠 Machine Learning
 - 📖 Reading
 - 🎬 Movies
 - ✈️ Traveling
@@ -236,16 +223,20 @@ Islamabad, Pakistan
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </p>
@@ -254,10 +245,10 @@ Islamabad, Pakistan
 
 <div align="center">
 
-### 💖 Thanks for Visiting!
+## 💖 Thanks for Visiting!
 
-*"Building AI solutions that bridge Finance, Healthcare, and Technology."*
+### *Building AI solutions that bridge Finance, Healthcare & Technology.*
 
-⭐ Feel free to explore my repositories and don't forget to leave a star if you find something useful!
+⭐ If you like my work, consider starring my repositories and connecting with me!
 
 </div>
